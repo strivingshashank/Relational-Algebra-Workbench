@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\OS_PBL.dir/objects.a
+C:\msys64\mingw64\bin\ar.exe qc CMakeFiles\OS_PBL.dir/objects.a @CMakeFiles\OS_PBL.dir\objects1.rsp
+C:\msys64\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\OS_PBL.dir/objects.a -Wl,--no-whole-archive -o OS_PBL.exe -Wl,--out-implib,libOS_PBL.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\OS_PBL.dir\linkLibs.rsp

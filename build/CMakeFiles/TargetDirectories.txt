@@ -1,0 +1,3 @@
+C:/Users/shash/OneDrive/Desktop/Computer Science/Projects/Playground/C++/FXTUI/build/CMakeFiles/DBMS_PBL.dir
+C:/Users/shash/OneDrive/Desktop/Computer Science/Projects/Playground/C++/FXTUI/build/CMakeFiles/edit_cache.dir
+C:/Users/shash/OneDrive/Desktop/Computer Science/Projects/Playground/C++/FXTUI/build/CMakeFiles/rebuild_cache.dir
