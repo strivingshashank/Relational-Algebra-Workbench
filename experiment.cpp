@@ -200,24 +200,22 @@ public:
 };
 
 int main() {
-  string attribute1 = "name";
-  string attribute2 = "age";
-  string attribute3 = "address";
-  string attribute4 = "contact number";
-  string attribute5 = "sex";
-  string attribute6 = "email";
+  vector<string> attributes;
   
-  vector<string> attributes = {attribute1, attribute2, attribute3, attribute4, attribute5, attribute6};
+  attributes.push_back("name");
+  attributes.push_back("age");
+  attributes.push_back("address");
+  attributes.push_back("contact number");
+  attributes.push_back("sex");
+  attributes.push_back("email");
+  
   vector<string> cellValues = {"Shashank", "21", "Kaulagarh", "9520074060", "M", "shashankvermayoyo@gmail.como"};
 
   Table table;
 
-  table.updateAttribute(attribute1);
-  table.updateAttribute(attribute2);
-  table.updateAttribute(attribute3);
-  table.updateAttribute(attribute4);
-  table.updateAttribute(attribute5);
-  table.updateAttribute(attribute6);
+  for (const string& attributeTitle : attributes) {
+    table.updateAttribute(attributeTitle);
+  }
 
   // table.updateAttribute(attribute1);
   
