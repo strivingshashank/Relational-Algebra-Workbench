@@ -1,8 +1,0 @@
-[
-{
-  "directory": "C:/Users/shash/OneDrive/Desktop/Computer Science/Projects/Playground/C++/FXTUI/build",
-  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/DBMS_PBL.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\DBMS_PBL.dir\\main.cpp.obj -c \"C:\\Users\\shash\\OneDrive\\Desktop\\Computer Science\\Projects\\Playground\\C++\\FXTUI\\main.cpp\"",
-  "file": "C:/Users/shash/OneDrive/Desktop/Computer Science/Projects/Playground/C++/FXTUI/main.cpp",
-  "output": "CMakeFiles/DBMS_PBL.dir/main.cpp.obj"
-}
-]
